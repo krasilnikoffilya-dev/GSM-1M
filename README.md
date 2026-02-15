@@ -1,4 +1,6 @@
 GSM-1M aka "World's fastest GeneralSound" (с)/2 )))
+![GSM-1M_top](https://github.com/user-attachments/assets/52375d32-495c-4546-bf7d-13bf4b3c16f3)
+![GSM-1M_bottom](https://github.com/user-attachments/assets/4fb3d217-51fd-491a-8c38-73f4b0c0141a)
 
 Проект, в котором я совместил очередную реализацию General Sound с 1M RAM для ZX-Spectrum с контроллером классической трехкнопочной Kempston Mouse.
 Отличия от предыдущих проектов:
@@ -10,3 +12,4 @@ GSM-1M aka "World's fastest GeneralSound" (с)/2 )))
 5) Прошивка Altera EPM7128SLC84 создана в схемном редакторе Quartus II 9.1 на базе оригинальной схемы General Sound с дополнениями и изменениями. В частности, D5.1 и D5.2 выполнены с установкой
    и сбросом по отрицательному фронту, а не по уровню. Испольуется весь доступный объём RAM (Z-Player показывает 1008K из 1024K установленных физически (так как 16K испльзуются как системная память RAM1,
    она же вторая половина страницы 1 RAM), а не используемая в оригинальном General Sound страница 0 RAM здесь используется как страница 32 RAM.
+
