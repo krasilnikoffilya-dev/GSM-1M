@@ -3,7 +3,7 @@ GSM-1M aka "World's fastest GeneralSound" (с)/2 )))
 ![GSM-1M_top](https://github.com/user-attachments/assets/52375d32-495c-4546-bf7d-13bf4b3c16f3)
 ![GSM-1M_bottom](https://github.com/user-attachments/assets/4fb3d217-51fd-491a-8c38-73f4b0c0141a)
 
-Проект, в котором я совместил очередную реализацию General Sound с 1M RAM для ZX-Spectrum с контроллером классической трехкнопочной Kempston Mouse.
+Проект, в котором я совместил очередную реализацию General Sound с 1M RAM для ZX-Spectrum с контроллером классической (пассивной) трехкнопочной Kempston Mouse.
 Отличия от предыдущих проектов:
 1) Комбинация General Sound с контроллером Kempston Mouse для шины Profi
 2) Использование процессора KL5C8400C от Kawasaki LSI (16-битного процессора с RISC-подобной архитектурой совместимого c Z80 на бинарном уровне,
